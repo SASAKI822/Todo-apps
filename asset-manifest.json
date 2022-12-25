@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SASAKI822/Todo-apps.git/static/css/main.e6c13ad2.css",
+    "main.js": "/SASAKI822/Todo-apps.git/static/js/main.f138c046.js",
+    "index.html": "/SASAKI822/Todo-apps.git/index.html",
+    "main.e6c13ad2.css.map": "/SASAKI822/Todo-apps.git/static/css/main.e6c13ad2.css.map",
+    "main.f138c046.js.map": "/SASAKI822/Todo-apps.git/static/js/main.f138c046.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f138c046.js"
+  ]
+}
